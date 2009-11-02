@@ -1,0 +1,4 @@
+- fix description field in calendar clients
+- add auto-CalDAV upload to Google Calendar, etc.
+- preserve/update events already seen (generate UUID?)
+- grab >1 month worth of event data
